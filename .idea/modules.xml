@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/security-service/security-service.iml" filepath="$PROJECT_DIR$/security-service/security-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-jwt-oauth2-oidc.iml" filepath="$PROJECT_DIR$/spring-security-jwt-oauth2-oidc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-service/student-service.iml" filepath="$PROJECT_DIR$/student-service/student-service.iml" />
     </modules>
   </component>
 </project>
